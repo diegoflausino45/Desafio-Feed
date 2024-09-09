@@ -39,7 +39,7 @@ h1{
 /*Coteudo principal*/
 main{
     width: 650px;
-    margin: auto;
+    margin: 1em auto;
 }
 
 .post{
